@@ -14,7 +14,7 @@ The game focuses on combat, enemy encounters, platforming challenges, and a fina
 - **Language:** C#
 - **Platform:** PC
 - **Game Mode:** Single Player
-- **Developer:** Fireloop Interactive
+- **Developer:** Nikhil Sonar
 
 ## ⚔️ Gameplay Features
 
