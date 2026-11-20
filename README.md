@@ -62,7 +62,7 @@ Defeat all enemies, survive the combat encounters, and reach the victory flag to
 
 ## 👨‍💻 Developer
 
-**Fireloop Interactive**
+**Fireloop **
 
 Designed and developed by Nikhil Sonar.
 
